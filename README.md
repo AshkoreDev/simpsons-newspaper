@@ -1,2 +1,2 @@
 # simpsons-newspaper
-Practice HTML and CSS
+HTML and CSS practice
